@@ -103,7 +103,7 @@ Título Nivel 2
   <u>Resultado</u>  
   Pa&ensp;lavra.  
 
-  ** \&emsp; Adciona quatro espaço entre ao texto.  
+  * \&emsp; Adciona quatro espaço entre ao texto.  
   Ex:  
   <u>Código</u>  
   `Pa&emsp;lavra.`  
