@@ -281,7 +281,7 @@ Ex:
   <u>Resultado</u>  
    [Youtube](https://www.youtube.com)  
 
-* \[ ] (“ “) Cria um link a qualquer página ou e-mail ao clicar no título do link configurado deixando uma mensagem ao passa o mouse por cima do link.  
+* \[ ] ( ) Cria um link a qualquer página ou e-mail ao clicar no título do link configurado deixando uma mensagem ao passa o mouse por cima do link.  
   Ex: 
   <u>Código</u>   
   `[Google](https://www.google.com "Google Buscador de qualquer coisa")`  
