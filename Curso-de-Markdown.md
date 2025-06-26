@@ -66,6 +66,7 @@ Título Nivel 1
 ===
 ```
 Resultado  
+
 Título Nivel 1
 ===  
 
@@ -79,6 +80,7 @@ Título Nivel 2
 ```   
 
 Resultado  
+
 Título Nivel 2
 ---  
 
