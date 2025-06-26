@@ -90,10 +90,10 @@ Título Nivel 2
 * \&nsbp; Adciona um único espaço entre ao texto.  
   Ex:  
   <u>Código</u>  
-  `Es&nbsp;paçõ.`  
+  `Pa&nbsp;lavra.`  
 
   <u>Resultado</u>  
-  Es&nbsp;paço.  
+  Pa&nbsp;lavra.  
 
   * \&ensp; Adciona dois espaços entre ao texto.  
   Ex:  
@@ -106,10 +106,10 @@ Título Nivel 2
   ** \&emsp; Adciona quatro espaço entre ao texto.  
   Ex:  
   <u>Código</u>  
-  `Es&emsp;paçõ.`  
+  `Pa&emsp;lavra.`  
 
   <u>Resultado</u>  
-  Es&emsp;paço.
+  Pa&emsp;lavra.
 
 ### Quebras de linhas
 * `<br>` Ao ser digitado ao final de uma palavra frase ou teste promove a quebra de linha. Essa tag também é muito utilizada no html.
