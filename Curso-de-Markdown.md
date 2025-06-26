@@ -98,10 +98,10 @@ Título Nivel 2
   * \&ensp; Adciona dois espaços entre ao texto.  
   Ex:  
   <u>Código</u>  
-  `Es&ensp;paçõ.`  
+  `Pa&ensp;lavra.`  
 
   <u>Resultado</u>  
-  Es&ensp;paço.  
+  Pa&ensp;lavra.  
 
   ** \&emsp; Adciona quatro espaço entre ao texto.  
   Ex:  
